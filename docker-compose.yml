@@ -1,0 +1,7 @@
+version: '2'
+services:
+  sitespeed.io:
+    image: portenez/sitespeed.io:6.3.5
+    build:
+      context: .
+      dockerfile: Dockerfile

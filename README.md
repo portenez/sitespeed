@@ -1,2 +1,3 @@
 # sitespeed
-custom sitespeed image
+
+Custom docker image to run sitespeed on gitlabci
